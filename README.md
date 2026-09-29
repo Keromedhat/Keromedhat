@@ -95,13 +95,3 @@ At **Orascom Construction**, I consolidated **15 separate contractor spreadsheet
 🇪🇬 Arabic: Native | 🇬🇧 English: Professional Working Proficiency
 
 ---
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Keromedhat&theme=shadow_blue&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=Keromedhat&theme=shadow_blue&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Keromedhat&theme=shadow_blue&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
----
-[![](https://komarev.com/ghpvc/?username=Keromedhat&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
