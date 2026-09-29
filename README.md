@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Kerolos Medhat
 
-### 📊 Data Analyst & BI Developer | Cairo, Egypt 🇪🇬
+### 📊 Data Analyst & BI Developer | Cairo, Egypt
 
 I turn fragmented business data into clear, actionable insights. Computer Science graduate with hands-on experience building ETL pipelines, data models, and executive dashboards, and currently an AI & Data Analysis Mentor at Instant.
 
