@@ -33,22 +33,22 @@ At **Orascom Construction**, I consolidated **15 separate contractor spreadsheet
 # 💻 Tech Stack:
 
 **Programming**<br>
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=databricks&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square) ![SQL](https://img.shields.io/badge/SQL-3776AB?style=flat-square) ![C++](https://img.shields.io/badge/C%2B%2B-3776AB?style=flat-square)
 
 **Data Analysis & BI**<br>
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white) ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Power Query](https://img.shields.io/badge/Power%20Query-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![DAX](https://img.shields.io/badge/DAX-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-0F766E?style=flat-square) ![Tableau](https://img.shields.io/badge/Tableau-0F766E?style=flat-square) ![Excel](https://img.shields.io/badge/Excel-0F766E?style=flat-square) ![Power Query](https://img.shields.io/badge/Power_Query-0F766E?style=flat-square) ![DAX](https://img.shields.io/badge/DAX-0F766E?style=flat-square) ![Pandas](https://img.shields.io/badge/Pandas-0F766E?style=flat-square) ![NumPy](https://img.shields.io/badge/NumPy-0F766E?style=flat-square)
 
 **Visualization**<br>
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge) ![Seaborn](https://img.shields.io/badge/Seaborn-4C8CBF?style=for-the-badge) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-7C3AED?style=flat-square) ![Seaborn](https://img.shields.io/badge/Seaborn-7C3AED?style=flat-square) ![Streamlit](https://img.shields.io/badge/Streamlit-7C3AED?style=flat-square)
 
 **Machine Learning**<br>
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-EA580C?style=flat-square) ![TensorFlow](https://img.shields.io/badge/TensorFlow-EA580C?style=flat-square) ![Keras](https://img.shields.io/badge/Keras-EA580C?style=flat-square)
 
 **Databases, ERP & Modeling**<br>
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Oracle EBS](https://img.shields.io/badge/Oracle%20EBS-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![SharePoint](https://img.shields.io/badge/SharePoint-0078D4?style=for-the-badge&logo=microsoftsharepoint&logoColor=white) ![Data Warehousing](https://img.shields.io/badge/Star%20%26%20Snowflake%20Schema-29B5E8?style=for-the-badge)
+![MySQL](https://img.shields.io/badge/MySQL-0369A1?style=flat-square) ![Oracle EBS](https://img.shields.io/badge/Oracle_EBS-0369A1?style=flat-square) ![SharePoint](https://img.shields.io/badge/SharePoint-0369A1?style=flat-square) ![Star Schema](https://img.shields.io/badge/Star_Schema-0369A1?style=flat-square) ![Snowflake Schema](https://img.shields.io/badge/Snowflake_Schema-0369A1?style=flat-square)
 
 **Tools**<br>
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white) ![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Google Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252)
+![Git](https://img.shields.io/badge/Git-374151?style=flat-square) ![GitHub](https://img.shields.io/badge/GitHub-374151?style=flat-square) ![Jupyter](https://img.shields.io/badge/Jupyter-374151?style=flat-square) ![VS Code](https://img.shields.io/badge/VS_Code-374151?style=flat-square) ![Google Colab](https://img.shields.io/badge/Google_Colab-374151?style=flat-square)
 
 ---
 
@@ -91,7 +91,8 @@ At **Orascom Construction**, I consolidated **15 separate contractor spreadsheet
 ---
 
 # 🌍 Languages
-
-🇪🇬 Arabic: Native | 🇬🇧 English: Professional Working Proficiency
+Arabic: Native | English: Professional Working Proficiency
 
 ---
+
+
